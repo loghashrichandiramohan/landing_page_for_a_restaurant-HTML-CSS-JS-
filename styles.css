@@ -1,0 +1,159 @@
+/* styles.css*/
+
+.background{
+    background-image: url("https://res.cloudinary.com/dmavfnqft/image/upload/v1725258735/backgroundimage_v26lx8.png");
+    height: 120vh;
+    background-size: cover;
+    background-position: center;
+    opacity: 90%;
+
+}
+
+h1{
+    font-style: bree serif;
+}
+
+.logo{
+    height: 15vh;
+    width: 8vw;
+}
+
+.ebony_and_ivy{
+    font-family: italic;
+    margin-top: 35px;
+
+    color: black;
+
+    
+}
+
+.nav-bg{
+    background-color: #cc9a5a;
+    
+}
+
+.icon{
+    font-size: 20px;
+    color: beige;
+}
+
+.card-bg{
+    background-color: beige;
+    height: 75vh;
+    width: 80vw;
+    margin-left: 150px;
+    border-radius: 30px;
+    padding: 50px;
+    text-align: center;
+    margin-top: 200px;
+    
+}
+
+.btn-features 
+ {
+        background-color: #cc9a5a !important;
+        color: beige !important;
+        border-radius: 20px !important;
+        height: 70px; 
+        width: 120px;
+ }
+
+ .home-card-image{
+    height: 60vh;
+    width: 35vw;
+    border-radius: 20px;
+    margin-left: 300px;
+}
+    
+.quotes{
+    font-weight: ;
+    font-size: 20px;
+    font-style: bree serif;
+
+}
+
+.about-us-bg{
+    background-color: beige;
+    height: 120vh;
+
+}
+
+
+.about-us-logo{
+background-image: url("https://res.cloudinary.com/dmavfnqft/image/upload/v1725286321/66d54aa73749ab0009e94c56_wt5jgq.png");
+height: 80vh;
+}
+
+.text{
+    font-family: Roboto;
+    font-size:25px ;
+}
+
+span{
+    font-weight: bold;
+}
+
+.three-img{
+    height: 70vh;
+    width: 60vw;
+    border-radius: 20px;
+}
+
+.pop-up{
+    background-color: rgb(224, 224, 183);
+    font-family: roboto;
+    padding: 30px;
+
+}
+
+.three-img-1{
+
+        height: 70vh;
+        width: 55vw;
+        border-radius: 20px;
+    
+}
+
+.padding40{
+    padding-left: 60px;
+}
+
+.gallery-bg{
+    background-color: #cc9a5a;
+
+}
+
+.image{
+    height: 50vh;
+}
+
+
+
+.gallery-img{
+    height: 60vh;
+    width: 35vw;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+
+.gallery-img-alter{
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.contactus-img{
+    height: 60vh;
+    width: 30vw;
+    margin-left: 400px;
+    
+}
+
+.contact-us-icon{
+    font-size: 120px;
+
+}
+
+.contactus-bg{
+    height: 90vh;
+}
