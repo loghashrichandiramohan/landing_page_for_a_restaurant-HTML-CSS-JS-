@@ -1,9 +1,9 @@
 Project Brief
 
-**Title:** Ebony & Ivy Restaurant Website
+**Title:** Ebony & Ivy Restaurant Website **(Using HTML,CSS,JAVASCRIPT)**
 
 **Objective:**
-Create a visually appealing and functional website for a restaurant named "Ebony & Ivy." The website will serve as a digital presence for the restaurant, providing essential information and engaging content to attract and inform potential customers.
+Create a visually appealing and functional website for a restaurant named "Ebony & Ivy." The website will serve as a digital presence for the restaurant, providing essential information and engaging content to attract and inform potential customers. 
 
 **Key Features:**
 
